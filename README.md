@@ -1,9 +1,9 @@
-# FrankenPHP and Laravel 12 Octane with Docker
+# FrankenPHP and Laravel 13 Octane with Docker
 
 This template was created for a quick start of a Laravel project with already
 prepared basic logic and is required by the environment:
 
-<a href="https://github.com/deniskorbakov/laravel-12-frankenphp-docker"><img alt="" src="https://github.com/deniskorbakov/laravel-12-frankenphp-docker/actions/workflows/deploy.yml/badge.svg">
+<a href="https://github.com/deniskorbakov/laravel-13-frankenphp-docker"><img alt="" src="https://github.com/deniskorbakov/laravel-13-frankenphp-docker/actions/workflows/deploy.yml/badge.svg">
 </a>
 
 ## Installation
@@ -15,13 +15,13 @@ To start the template you will need git and docker/docker compose
 You can also submit a template to yourself through the GitHub interface
 
 ```bash
-git clone https://github.com/deniskorbakov/laravel-12-frankenphp-docker.git
+git clone https://github.com/deniskorbakov/laravel-13-frankenphp-docker.git
 ```
 
 Let's go to the cloned repository
 
 ```bash
-cd laravel-12-frankenphp-docker
+cd laravel-13-frankenphp-docker
 ```
 
 Copy env example to env
@@ -56,7 +56,7 @@ if you want to communicate without a port, then change `APP_PORT` on 80 port
 
 **Docker images - utilities:**
 
-* Laravel 12
+* Laravel 13
 * Frankenphp
 * Postgres
 * Kvrocks
